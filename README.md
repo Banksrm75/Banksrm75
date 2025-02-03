@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rebekah Banks</h1>
 <h3 align="center">A passionate full-stack developer from the United States</h3>
-<img align="right" alt="Coding" width="400" src="Profile_Picture.jpg">
+<img align="center" alt="Coding" width="400" src="Profile_Picture.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=banksrm75&label=Profile%20views&color=0e75b6&style=flat" alt="banksrm75" /> </p>
 
