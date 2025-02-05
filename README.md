@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rebekah Banks</h1>
 <h3 align="center">A passionate full-stack developer from the United States</h3>
+<p>💡 From Educator to Engineer: A Journey Fueled by Problem-Solving & Innovation
+
+For over a decade, I thrived as an Elementary Educator, breaking down complex concepts into digestible lessons, adapting to ever-changing curriculums, and fostering collaboration in the classroom. My role required analytical thinking, adaptability, and the ability to craft engaging experiences—skills that seamlessly translate into the world of software development.
+
+🚀 The Transition <br>
+My passion for problem-solving and efficiency sparked an interest in technology. I wanted to build solutions that enhance workflows, optimize processes, and improve user experiences. This led me to immerse myself in coding, mastering JavaScript, Python, React, and SQL, and earning my Full Stack Development certification from 4Geeks Academy.
+
+🔹 Bridging the Gap Between Logic & Creativity<br>
+As a Software Developer, I bring a user-focused mindset and a knack for breaking down complex problems—whether it’s debugging a challenging script or structuring a database for efficiency. My previous experience in education, administration, and construction allows me to approach challenges from multiple perspectives, making me an asset to any collaborative development team.
+</p>
 <h3>
   <img align="center" alt="Coding" width="400" src="Profile_Picture.jpg">
 </h3>
